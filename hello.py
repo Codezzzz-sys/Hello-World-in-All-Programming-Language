@@ -1,0 +1,3 @@
+# DTP
+
+print('Hello, world!')
